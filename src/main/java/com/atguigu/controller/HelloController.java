@@ -10,6 +10,7 @@ public class HelloController {
     public String hello(){
 
         System.out.println("123");
+        System.out.println("456");
         return "hello spring ...";
     }
 }
